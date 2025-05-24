@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">studyplanner</string>
+    <string-array name="task_categories">
+        <item>Study</item>
+        <item>Work</item>
+        <item>Personal</item>
+    </string-array>
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Study</item>
+        <item>Personal</item>
+        <item>Work</item>
+    </string-array>
+</resources>
